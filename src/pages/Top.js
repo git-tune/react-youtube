@@ -15,6 +15,7 @@ const Top = () => {
         payload: { popular: res.data.items },
       });
     });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
   return (
     <div>

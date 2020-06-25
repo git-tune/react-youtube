@@ -35,13 +35,14 @@
       margin: 1rem auto;
     }
     input {
+      outline: none;
       width: 80%;
       text-indent: 0.5rem;
       border: #121212;
       background: white;
-      color: white;
     }
     button {
+      outline: none;
       width: 20%;
       background: #303030;
       color: white;
