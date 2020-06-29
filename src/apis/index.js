@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const KEY = 'AIzaSyCAwnIz1vALTuKPaRAQG2Wp-hhGGZmsbzY';
+const KEY = 'AIzaSyAYunBvecjBBdndw0nuvd5BOnCGex_4668';
 
 const youtube = axios.create({
   baseURL: 'https://www.googleapis.com/youtube/v3',
@@ -37,6 +37,15 @@ export const fetchRelatedData = async (id) => {
     params: {
       ...params,
       relatedToVideoId: id,
+    },
+  });
+};
+
+export const fetchSearchData = async (query) => {
+  return await youtube.get('/search', {
+    params: {
+      ...params,
+      q: query,
     },
   });
 };
