@@ -2,7 +2,7 @@
   "name": "react-youtube",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://git-tune.github.io/react-youtube",
+  "homepage": "https://git-tune.github.io/react-youtube/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.29",
     "@fortawesome/free-solid-svg-icons": "^5.13.1",
