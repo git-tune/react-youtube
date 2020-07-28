@@ -12,3 +12,28 @@ https://git-tune.github.io/react-youtube/
 * CSS Moduleパターンを使ったスタイリング手法  
 * Promise.allによる最適化  
 * 縦横比(アスペクト比)を保持したレスポンシブル対応  
+
+# 補足
+関数コンポーネントについて  
+* [コンポーネントと props](https://ja.reactjs.org/docs/components-and-props.html)  
+* [関数コンポーネントはクラスとどう違うのか?](https://overreacted.io/ja/how-are-function-components-different-from-classes/)  
+
+React Hooksについて  
+* [フック API リファレンス](https://ja.reactjs.org/docs/hooks-reference.html)  
+* [ベストな手法は？ Reactのステート管理方法まとめ](https://ics.media/entry/200409/)  
+* [ReactでReduxを使わずにFluxパターンを実装する](https://qiita.com/zakioooo/items/2a9aa7c7d370765a3af0)  
+* [useReducerの本質：良いパフォーマンスのためのロジックとコンポーネント設計](https://qiita.com/uhyo/items/cea1bd157453a85feebf)
+
+SPA(Single Page Application)について  
+* [SPA(Single Page Application)ってなに？](https://digitalidentity.co.jp/blog/creative/about-single-page-application.html)  
+* [シングルページアプリケーション（SPA）の導入メリット＆デメリット](https://www.oro.com/ja/technology/001/)  
+* [SPA(Single Page Application)の基本](https://qiita.com/takanorip/items/82f0c70ebc81e9246c7a)  
+* [React Router](https://reactrouter.com/web/guides/quick-start)  
+* [ささっと学ぶReact Router v4](https://the2g.com/2789)  
+
+CSS　Muduleパターンについて  
+* [モジュール化についてしっくりと理解できないので、ちゃんと考えてみました](https://www.yoheim.net/blog.php?q=20130602)  
+
+Youtube APIの登録について  
+* [YouTube Data API の概要](https://developers.google.com/youtube/v3/getting-started?hl=ja)  
+* [YouTube API APIキーの取得方法](https://qiita.com/chieeeeno/items/ba0d2fb0a45db786746f)  
