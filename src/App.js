@@ -6,9 +6,9 @@ import Watch from './pages/Watch';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/react-youtube'>
       <Switch>
-        <Route exact path='/react-youtube' component={Top} />
+        <Route exact path='/' component={Top} />
         <Route exact path='/search' component={Search} />
         <Route exact path='/watch' component={Watch} />
       </Switch>

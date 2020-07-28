@@ -23,7 +23,7 @@ const Header = () => {
   return (
     <div className={Style.header}>
       <div className={Style.item}>
-        <Link to='/react-youtube'>ReactTube</Link>
+        <Link to='/'>ReactTube</Link>
       </div>
       <div className={Style.item}>
         <form onSubmit={handleSubmit}>
