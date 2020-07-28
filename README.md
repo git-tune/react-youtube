@@ -13,7 +13,7 @@ https://git-tune.github.io/react-youtube/
 * Promise.allによる最適化  
 * 縦横比(アスペクト比)を保持したレスポンシブル対応  
 
-# 補足
+# 参考
 関数コンポーネントについて  
 * [コンポーネントと props](https://ja.reactjs.org/docs/components-and-props.html)  
 * [関数コンポーネントはクラスとどう違うのか?](https://overreacted.io/ja/how-are-function-components-different-from-classes/)  
