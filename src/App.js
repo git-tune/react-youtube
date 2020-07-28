@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route exact path='/' component={Top} />
+        <Route exact path='/react-youtube' component={Top} />
         <Route exact path='/search' component={Search} />
         <Route exact path='/watch' component={Watch} />
       </Switch>
