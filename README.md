@@ -1,7 +1,7 @@
 # 概要 
 Reduxなどのthird party moduleを使わずに、  
 最新のreact開発手法である、react hooksを使用してglobal state管理を実現。  
-React + YouTube APIを使ったYouTubeクローンアプリ  
+React + YouTube APIを使ったYouTubeクローンアプリをSPAとして実装。  
 https://git-tune.github.io/react-youtube/
 
 # 説明
