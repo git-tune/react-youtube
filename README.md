@@ -31,8 +31,12 @@ SPA(Single Page Application)について
 * [React Router](https://reactrouter.com/web/guides/quick-start)  
 * [ささっと学ぶReact Router v4](https://the2g.com/2789)  
 
-CSS　Muduleパターンについて  
+CSS Muduleパターンについて  
 * [モジュール化についてしっくりと理解できないので、ちゃんと考えてみました](https://www.yoheim.net/blog.php?q=20130602)  
+
+Promiss.all()について
+* [Promise.all() MDN Web Docs](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)  
+* [Promise.all()で非同期処理を並列に捌く](https://common-engineer.com/javascript/promise-all)  
 
 Youtube APIの登録について  
 * [YouTube Data API の概要](https://developers.google.com/youtube/v3/getting-started?hl=ja)  
