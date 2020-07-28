@@ -1,6 +1,6 @@
 # 概要
 React + YouTube APIを使ったYouTubeクローンアプリ  
-Reduxなどのthird party moduleを使わずにglobal state管理  
+Reduxなどのthird party moduleを使わずにglobal state管理を実現  
 https://git-tune.github.io/react-youtube/
 
 # 説明
