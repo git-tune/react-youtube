@@ -9,9 +9,9 @@ https://git-tune.github.io/react-youtube/
 * React Router Domによるページ遷移  
 * useStateを使ったLocal State管理  
 * useReducer + ContextAPI + useContextを使ったGlobal State管理  
-** Storeの呼び出しにはuseContextフックを使用  
-** Storeの更新にはdispatch関数を使用  
+  Storeの呼び出しにはuseContextフックを使用  
+  Storeの更新にはdispatch関数を使用  
 * CSS Moduleパターンを使ったスタイリング手法  
 * Promise.allによる最適化  
-** 動画の切り替えと関連動画の更新に遅延が生じるため、これを最適化  
+  動画の切り替えと関連動画の更新に遅延が生じるため、これを最適化  
 * 縦横比(アスペクト比)を保持したレスポンシブル対応  
